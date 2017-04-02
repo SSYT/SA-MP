@@ -5,3 +5,7 @@
   
   Info:
   Version 1.2
+
+
+## Bids System v1.0
+  Download: pastebin.com/C9tTrvCf
